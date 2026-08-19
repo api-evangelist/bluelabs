@@ -25,7 +25,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 image: https://cdn.prod.website-files.com/68775a207d67c3b7f2c29744/692f744a27dd446a5d0ee3df_blue-labs-webclip-image-256x256px.png
